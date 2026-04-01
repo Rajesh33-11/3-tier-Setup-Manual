@@ -31,4 +31,15 @@ Choose my-vpc
 <img width="1817" height="530" alt="image" src="https://github.com/user-attachments/assets/d330a00c-1c7e-444a-a9e0-d16d0f594050" />
 <img width="1909" height="321" alt="image" src="https://github.com/user-attachments/assets/e6ba71d3-258b-48d7-b2f6-f6d9392ce22b" />
 
-
+--------
+## Create Public Subnet (2)
+- Left side → Subnets
+<img width="1042" height="596" alt="image" src="https://github.com/user-attachments/assets/489fc30a-24bb-4d92-b0a3-a08952ea63f9" />
+- Click → Create subnet
+<img width="1643" height="337" alt="image" src="https://github.com/user-attachments/assets/5fc65a7d-c514-43c7-9368-a61ffb2aa27d" />
+- Select your VPC
+- <img width="1533" height="422" alt="image" src="https://github.com/user-attachments/assets/1e5ed63e-94ec-46ae-9b74-35729fe5d3d0" 
+     
+- Enter: **Name: public-subnet  →  AZ: ap-south-1a  →   CIDR: 120.0.1.0/24 →  Click → Create subnet**
+<img width="1595" height="772" alt="image" src="https://github.com/user-attachments/assets/60085e55-4835-4161-bf66-af655c0af8ac" />
+<img width="1588" height="413" alt="image" src="https://github.com/user-attachments/assets/3ffd22fd-2b7e-43f0-a46d-ed2a1343fe2d" />
