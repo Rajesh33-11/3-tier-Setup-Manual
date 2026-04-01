@@ -13,7 +13,7 @@
 <img width="1934" height="496" alt="image" src="https://github.com/user-attachments/assets/0b3b261c-3b29-4571-ae51-94e80fdc4170" />
 
 -----
-## 🔹 Step 4: Create Internet Gateway (IGW)
+## Create Internet Gateway (IGW)
 Left side → Internet Gateways
 <img width="947" height="770" alt="image" src="https://github.com/user-attachments/assets/018266f8-7096-4966-8f35-848b09d1e266" />
 Click → Create Internet Gateway
@@ -28,6 +28,7 @@ Select IGW
 Click → Actions → Attach to VPC
 <img width="1605" height="472" alt="image" src="https://github.com/user-attachments/assets/fc176ab5-5e57-4683-9bcb-187f8a9053a1" />
 Choose my-vpc
-<img width="1845" height="448" alt="image" src="https://github.com/user-attachments/assets/91909c95-95ce-4f43-b9cb-28f566566d44" />
-<img width="1603" height="389" alt="image" src="https://github.com/user-attachments/assets/096ce8fa-8388-4104-989c-c06dc0c0ffcf" />
+<img width="1817" height="530" alt="image" src="https://github.com/user-attachments/assets/d330a00c-1c7e-444a-a9e0-d16d0f594050" />
+<img width="1909" height="321" alt="image" src="https://github.com/user-attachments/assets/e6ba71d3-258b-48d7-b2f6-f6d9392ce22b" />
+
 
