@@ -1,6 +1,7 @@
 # Create Public Route Table
 - Left side → Subnets
 
+
 - Click → Create subnet
 <img width="1643" height="337" alt="image" src="https://github.com/user-attachments/assets/5fc65a7d-c514-43c7-9368-a61ffb2aa27d" />
 - Select your VPC
